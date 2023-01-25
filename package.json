@@ -1,6 +1,6 @@
 {
   "name": "is-lambda-env",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detect if code run on lambda or not",
   "main": "index.js",
   "scripts": {
