@@ -1,6 +1,6 @@
 ## islambda
 
-islambda helps you to detect is your code runs on AWS Lambda/Azure Cloud functions/Google Cloud functions
+is-lambda-env helps you to detect is your code runs on AWS Lambda/Azure Cloud functions/Google Cloud functions
 
 Supports:
 * AWS Lambda
